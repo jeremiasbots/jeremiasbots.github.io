@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on jeremiasbots | portafolio</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on jeremiasbots | portafolio</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo crear un bot de Discord?</title>
+      <link>/blog/como-crear-un-bot-de-discord/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/como-crear-un-bot-de-discord/</guid>
+      <description>&lt;p&gt;Hola, hoy vamos a crear un bot de Discord usando JavaScript, para esto tenemos que asegurarnos de tener instalado Git en nuestra computadora y por supuesto Node.js.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creación-del-bot&#34;&gt;Creación del bot&lt;a href=&#34;#creaci%c3%b3n-del-bot&#34; class=&#34;post-heading__anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Primero iremos a nuestra carpeta de proyectos y crearemos un nuevo directorio llamado bot:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mkdir bot&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Después de haber creado el directorio, usaremos &lt;code&gt;cd bot&lt;/code&gt; para ubicarnos allí e iniciaremos el proyecto con &lt;code&gt;npm init -y&lt;/code&gt;, una vez hecho todo esto, podremos instalar discord.js y dotenv:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
